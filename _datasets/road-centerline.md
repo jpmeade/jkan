@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Road Centerline
+title: Road Centerlines
 organization: Sample Department
-notes: centerlines
+notes: Regional Centerline file maintained by local municipalities.
 resources:
   - name: 'Centerline '
     url: >-
@@ -24,5 +24,5 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
   - Transportation
 maintainer: City of Columbus Department of Public Service
-maintainer_email: ''
+maintainer_email: columbusgis@columbus.gov
 ---
