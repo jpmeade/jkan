@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Road Centerline
-organization: Sample Department
+organization: City of Columbus
 notes: Regional Centerline File
 resources:
   - name: 'Centerline '
