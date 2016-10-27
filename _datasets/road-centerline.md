@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Road Centerlines
+title: Road Centerline
 organization: Sample Department
-notes: Regional Centerline file maintained by local municipalities.
+notes: Regional Centerline File
 resources:
   - name: 'Centerline '
     url: >-
@@ -10,15 +10,15 @@ resources:
     format: api
   - name: Centerline
     url: >-
-      http://data.columbus.opendata.arcgis.com/datasets/03470c0885e941c5b64c4df562b4f854_0.csv
+      http://data.columbus.opendata.arcgis.com/datasets/e6b61f4130d4429abf4b74a3f0b6fba7_1.csv
     format: csv
   - name: Centerline
     url: >-
-      http://data.columbus.opendata.arcgis.com/datasets/03470c0885e941c5b64c4df562b4f854_0.zip
+      http://data.columbus.opendata.arcgis.com/datasets/e6b61f4130d4429abf4b74a3f0b6fba7_1.zip
     format: shp
   - name: Centerline
     url: >-
-      http://data.columbus.opendata.arcgis.com/datasets/03470c0885e941c5b64c4df562b4f854_0.kml
+      http://data.columbus.opendata.arcgis.com/datasets/e6b61f4130d4429abf4b74a3f0b6fba7_1.kml
     format: kml
 license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
