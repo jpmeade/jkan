@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Parking Meters
-organization: Sample Department
+organization: City of Columbus
 notes: Columbus Parking Meters
 resources:
   - name: Parking Meters
@@ -24,5 +24,5 @@ license: 'https://creativecommons.org/licenses/by/4.0/'
 category:
   - Transportation
 maintainer: City of Columbus
-maintainer_email: gis.columbus.gov/columbus.gov
+maintainer_email: columbusgis@columbus.gov
 ---
